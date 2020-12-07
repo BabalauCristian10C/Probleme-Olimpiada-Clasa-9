@@ -1,0 +1,5 @@
+pas = int(input("pasari - "))
+gaini = pas / 2
+rat = gaini / 4
+gas = pas - (gaini + rat)
+print(int(gaini), int(rat), int(gas))
